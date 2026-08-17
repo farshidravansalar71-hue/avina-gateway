@@ -89,4 +89,4 @@ Implemented security practices:
 
 Farshid Ravansalar
 
-Android Developer | Kotlin | AI-Powered Applications
+Android Developer | Kotlin | AI-Powered Applications 
