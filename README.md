@@ -22,17 +22,7 @@ It handles communication between mobile applications and AI services, providing:
 
 ## 🏗 Architecture
 
-    Android Application
-          |
-          ↓
-  FastAPI AI Gateway
-          |
-          ↓
- AI Analysis Service
-          |
-          ↓
-Structured Health Response
-
+    Android Application  =>  FastAPI AI Gateway  =>   AI Analysis Service  =>  Structured Health Response
 
 ---
 
