@@ -1,4 +1,4 @@
-# 🤖 AVINA AI Gateway
+#  AVINA  Gateway
 
 AI-powered backend gateway for intelligent health data analysis.
 
